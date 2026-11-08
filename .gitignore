@@ -1,0 +1,38 @@
+# ---- Keil / ARMCC 编译产物 ----
+*.o
+*.obj
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.crf
+*.d
+*.dep
+*.lst
+*.lnp
+*.sct
+*.htm
+*.build_log.htm
+*.__i
+*.iex
+*.uvguix.*
+
+# ---- 目录 ----
+MDK-ARM/imu_process_01/
+__pycache__/
+*.pyc
+*.npy
+fit_work/build/
+fit_work/out/obj/
+
+# ---- 原始素材（体积大，不入库）----
+*.mp4
+*.7z
+*.zip
+*.pdf
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store

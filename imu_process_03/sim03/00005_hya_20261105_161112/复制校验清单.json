@@ -1,0 +1,21 @@
+{
+  "source_host": "10.85.132.204",
+  "source_directory": "/home/coolpi/Documents/xjh_camera_only/data/00005_hya_20261105_161112",
+  "selection": "Latest 2 records by measurement CSV modification time",
+  "csv_modified_at": "2026-11-05T16:11:49+08:00",
+  "copied_at": "2026-11-05T16:15:24.934830+08:00",
+  "files": [
+    {
+      "path": "测量数据.csv",
+      "size_bytes": 446254,
+      "sha256": "2a48fabcd5b5dc473fb652a3c7201214d6d9518432b41a1e5a354421c0113645",
+      "verified": true
+    },
+    {
+      "path": "视频.mp4",
+      "size_bytes": 3376672,
+      "sha256": "7e231f6354eb2309dca8fbc391419193ddfadbac7c69c1ef11b1d808ccb5d4de",
+      "verified": true
+    }
+  ]
+}
